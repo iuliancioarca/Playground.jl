@@ -1,5 +1,5 @@
 module Playground
-
-greet() = print("Hello World!")
+export f
+f(x) = 2x
 
 end # module
