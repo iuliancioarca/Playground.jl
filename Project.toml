@@ -1,0 +1,13 @@
+name = "Playground"
+uuid = "0c5878bd-8701-4ae0-9bd1-4e3f1c8c7280"
+authors = ["Iulian Cioarca"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
